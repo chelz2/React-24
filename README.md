@@ -7,3 +7,15 @@
 
 # Completed Project
 <img src="Screenshot 2024-08-23 022125.png"/>
+
+### Run Json server 
+```bash
+npm run server
+```
+This will run json server on port 8000
+
+### Run React Frontapp vite server
+```bash
+npm run dev
+```
+This will run this React App on port 3000 :)
