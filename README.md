@@ -3,6 +3,7 @@
 
 # Resources
 - [React Official Documentation](https://react.dev/)
+- [Json server npm](https://www.npmjs.com/package/json-server)
 
 # Completed Project
 <img src="Screenshot 2024-08-23 022125.png"/>
